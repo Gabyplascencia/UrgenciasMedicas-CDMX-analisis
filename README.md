@@ -20,6 +20,10 @@ Determine whether health services are sufficient, whether we are experiencing em
 
 ## 🥇🏆Results
 The analysis confirms that:
-- There is a direct relationship between the car brand and the price: the higher the price, the greater the popularity of the brand.
-- No matter the model year, the brand still influences the cost of the vehicle.
+- Hospitals have seen a 20 to 25% increase in cases since 2020.
+- 55% of emergency cases are related to pregnancies and births in Mexico City.
+- 55% of emergency cases are related to the female sex.
+- 70% of cases are between the ages of 20 and 40.
+- Less than 10% of cases are in people aged 50 and older.
+- 95% of hospital stays due to emergencies are less than 2 days.
 
